@@ -1,0 +1,12 @@
+[submodule "dvd-library-unit-tests-M-Rumley"]
+	path = dvd-library-unit-tests-M-Rumley
+	url = https://github.com/The-Software-Guild/dvd-library-unit-tests-M-Rumley.git
+[submodule "assessment-fix-engine-monitor-M-Rumley"]
+	path = assessment-fix-engine-monitor-M-Rumley
+	url = https://github.com/The-Software-Guild/assessment-fix-engine-monitor-M-Rumley.git
+[submodule "userio-class-lab-M-Rumley"]
+	path = userio-class-lab-M-Rumley
+	url = https://github.com/The-Software-Guild/userio-class-lab-M-Rumley.git
+[submodule "assessment-basic-programming-concepts-M-Rumley"]
+	path = assessment-basic-programming-concepts-M-Rumley
+	url = https://github.com/The-Software-Guild/assessment-basic-programming-concepts-M-Rumley.git
